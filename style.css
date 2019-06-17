@@ -314,3 +314,22 @@ rainbow-text {
   text-align: center;
   width: 100%;
 }
+
+footer {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+}
+
+footer img {
+  width: 60px;
+  margin-left: 10px;
+}
+
+footer p {
+  position: absolute;
+  font-size: 40px;
+  color: #59876b;
+  right: 10px;
+  bottom: 0px;
+}
